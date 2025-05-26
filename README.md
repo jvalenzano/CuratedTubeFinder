@@ -1,6 +1,6 @@
 # CuratedTubeFinder
 
-A simple, static web application to search a curated list of your favorite YouTube channels by topic. Quickly find relevant tech, AI, and other content, and get suggestions for further exploration with popular LLMs.
+A simple, static web app to search a curated list of your favorite YouTube channels by topic. Quickly find relevant tech, AI, and other content, and get suggestions for further exploration with popular LLMs.
 
 ## Features
 
